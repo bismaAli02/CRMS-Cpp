@@ -1,0 +1,4 @@
+Wagon R,4000
+mehran,4000
+prado,30000
+City,9000

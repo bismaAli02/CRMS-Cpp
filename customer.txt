@@ -1,0 +1,5 @@
+234,bisma ali,qwe$,18
+890,affan hassan,std$,20
+345,umair,asd%,20
+455,bisma,asdf$,19
+472,ali,zxc%,20
